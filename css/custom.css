@@ -1,12 +1,29 @@
 body {
-	background-color: #000;
-	color: #fff;
+	background-color: #080808;
+	font-family: Georgia, Baskerville, Palatino, 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif;
+	color: #ffffff;
+}
+
+header {
+	text-align: center;
 }
 
 .container {
-	border: solid 2px #080808;
+	border: solid 15px #080808;
+	margin-left: 20px;
+	
 }
 
 ul {
 	display: inline;
+	align-content: space-around;
+	padding-left: 30px;
+}
+
+li {
+	margin-left: 30px;
+}
+
+h3 {
+
 }
