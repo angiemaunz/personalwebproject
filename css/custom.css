@@ -1,19 +1,35 @@
 body {
 	background-color: #080808;
-	font-family: Georgia, Baskerville, Palatino, 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif;
-	color: #ffffff;
+	font-family: Tahoma, Verdana, Arial, Helvetica;
+	color: #d3d3d3;
 }
 
 header {
 	text-align: center;
+	font-stretch: extra-expanded;
+	font-size: 42px;
 }
 
 .container {
-	border: solid 15px #080808;
+	border: solid 5px #ffffff;
 	margin-left: 20px;
-	
+	padding: 20px;
+	background-color: #d3d3d3;
+	color: #000000;
+}
+span {
+	font-style: italic;
+	font-weight: bolder;
+	}
+
+h3 {
+	font-size: 40px;
 }
 
+p {
+	font-size: 25px;
+	color: #000000;
+}
 ul {
 	display: inline;
 	align-content: space-around;
@@ -22,8 +38,14 @@ ul {
 
 li {
 	margin-left: 30px;
+	font-size: 25px;
+	color: #000000;
 }
 
 h3 {
 
+}
+
+.line {
+	background-color: #000000;
 }
