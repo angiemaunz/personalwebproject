@@ -12,7 +12,7 @@ header {
 }
 
 .container {
-	border: solid 5px #ffffff;
+	border: solid 5px orangered;
 	margin-left: 20px;
 	padding: 20px;
 	background-color: #d3d3d3;
